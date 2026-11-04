@@ -1,6 +1,6 @@
 # Foundations-for-ML
-<strong>Click here to see the Math Notations notebook: https://ruthe04.github.io/Foundations-for-ML/Math_Notations.html </strong> <br>
-<strong>Click here to see the Math Notations notebook: https://ruthe04.github.io/Foundations-for-ML/Exercices.html </strong> <br>
+<strong>Click here to see the Math Notations notebook(1): https://ruthe04.github.io/Foundations-for-ML/Math_Notations.html </strong> <br>
+<strong>Click here to see the Exercises notebook(1): https://ruthe04.github.io/Foundations-for-ML/Exercices.html </strong> <br>
 
 
 I use Jupyter Notebook to study. My process is: Study the content, either a book chapter or a lecture, and then I transcribe in my own words what I have studied. 
