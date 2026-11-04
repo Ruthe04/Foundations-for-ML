@@ -1,4 +1,6 @@
 # Foundations-for-ML
+<strong>Click here to see the Math Notations notebook: https://ruthe04.github.io/Foundations-for-ML/ </strong> <br>
+
 I use Jupyter Notebook to study. My process is: Study the content, either a book chapter or a lecture, and then I transcribe in my own words what I have studied. 
 Personally, this method helps me to find where my understanding is still weak and what I already understand. 
 I also do my practice exercises in Jupyter Notebook. 
