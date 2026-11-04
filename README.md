@@ -5,8 +5,6 @@ I also do my practice exercises in Jupyter Notebook.
 
 This is the first notebook of a series, and I intend to write a separate notebook specifically about the philosophy behind this project. <br>
 
-<strong>Note:</strong> Please, to view the notebook with its complete formatting, use the nbviewer link.
-
 
 <strong>AI Tools Disclosure!</strong> <br>
 As a self-taught student, I found the journey without a professor really challenging; that’s where AI tools came in, not to replace a professor completely, but to help me to the extent of their capabilities.  
