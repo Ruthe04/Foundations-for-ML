@@ -6,7 +6,7 @@ I also do my practice exercises in Jupyter Notebook.
 This is the first notebook of a series, and I intend to write a separate notebook specifically about the philosophy behind this project.
 
 
-AI Tools Disclosure!
+AI Tools Disclosure! <br>
 As a self-taught student, I found the journey without a professor really challenging; that’s where AI tools came in, not to replace a professor completely, but to help me to the extent of their capabilities.  
 I especially used ChatGPT and DeepSeek for the following tasks:
 
