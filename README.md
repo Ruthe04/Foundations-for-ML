@@ -3,7 +3,9 @@ I use Jupyter Notebook to study. My process is: Study the content, either a book
 Personally, this method helps me to find where my understanding is still weak and what I already understand. 
 I also do my practice exercises in Jupyter Notebook. 
 
-This is the first notebook of a series, and I intend to write a separate notebook specifically about the philosophy behind this project.
+This is the first notebook of a series, and I intend to write a separate notebook specifically about the philosophy behind this project. <br>
+
+<strong>Note:</strong> Please, to view the notebook with its complete formatting, use the nbviewer link.
 
 
 <strong>AI Tools Disclosure!</strong> <br>
