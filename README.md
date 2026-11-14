@@ -2,7 +2,7 @@
 <strong>Click here to see the Math Notations notebook(1): https://ruthe04.github.io/Foundations-for-ML/Math_Notations.html </strong> <br>
 <strong>Click here to see the Exercises notebook(1): https://ruthe04.github.io/Foundations-for-ML/Exercices.html </strong> <br>
 <strong>Click here to see the Real Numbers notebook(1): https://ruthe04.github.io/Foundations-for-ML/Real_Numbers.html </strong> <br>
-<strong>Click here to see the  Real Numbers Exercises notebook(1): https://ruthe04.github.io/Foundations-for-ML/Real_Numbers_exercises.html </strong> <br>
+<strong>Click here to see the  Real Numbers Exercises notebook(1): https://ruthe04.github.io/Foundations-for-ML/Real_Numbers_Exercises.html </strong> <br>
 
 
 
